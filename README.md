@@ -1,7 +1,7 @@
-# kadai13_janken
+# kadai02_janken04
 # ①課題番号-プロダクト名
 
-kadai13_janken
+kadai02_janken04
 
 ## ②課題内容（どんな作品か）
 
